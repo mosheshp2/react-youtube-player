@@ -1,0 +1,24 @@
+.Playlist {
+    margin: 5px;
+}
+.txtVideo {
+
+    width: 100%;
+    height: 40px;
+    background: #bbbbbb;
+    border: 1px solid #444444;
+
+}
+#txtVideo{
+    width:240px;
+}
+.txtVideo input,button{
+    margin:10px;
+}
+.VideoList {
+    min-height: 400px;
+    width: 100%;
+    background: #bbbbbb;
+    border: 1px solid #444444;
+
+}

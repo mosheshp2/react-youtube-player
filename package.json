@@ -1,0 +1,20 @@
+{
+  "name": "youtube-player-js",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react-youtube": "^7.4.1",
+    "express": "^4.16.3",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "request": "^2.87.0"
+  },
+  "scripts": {
+    "client": "react-scripts start",
+    "server": "node server",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
